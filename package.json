@@ -1,0 +1,17 @@
+{
+  "name": "f609-ip-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bintang",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.0"
+  }
+}
